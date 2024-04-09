@@ -1,0 +1,23 @@
+[33mcommit a5be8f7447b66a20aacd0d672196875e88f4059c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kamwerudroid <mmakweru@gmail.com>
+Date:   Tue Apr 9 17:01:55 2024 +0300
+
+    This is the recipe project with two recipes added
+
+[33mcommit 4a2a155bc8cb28adc2b8205fba36ca7b5f5b5c4f[m
+Author: Kamwerudroid <mmakweru@gmail.com>
+Date:   Mon Apr 8 17:42:37 2024 +0300
+
+    Basic outline of recipe website
+
+[33mcommit 788d1bb809fc3ee01d8061b36e30d679e16f096a[m
+Author: Kamwerudroid <mmakweru@gmail.com>
+Date:   Mon Apr 8 15:46:08 2024 +0300
+
+    Recipe directory added
+
+[33mcommit e0a3331979f932dba9c416acc1c6e60a86197718[m
+Author: Kamwerudroid <mmakweru@gmail.com>
+Date:   Mon Apr 8 15:34:02 2024 +0300
+
+    First commit
